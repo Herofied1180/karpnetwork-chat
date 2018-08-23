@@ -1,0 +1,7 @@
+{
+	"server": {
+		"defaultRoom": "lobby",
+		"port": 3000,
+		"debug": true
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"server": {
+		"port": 40510,
+		"welcomeMsg": "Welcome to MPC(Multiplayer Chat)!"
+	}
+}
